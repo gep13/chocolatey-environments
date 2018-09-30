@@ -1,3 +1,4 @@
 .vagrant
 packages/
 .DS_Store
+chocolatey.license.xml
